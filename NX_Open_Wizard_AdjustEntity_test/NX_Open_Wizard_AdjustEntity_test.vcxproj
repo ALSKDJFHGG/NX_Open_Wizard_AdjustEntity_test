@@ -155,10 +155,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
+    <ClCompile Include="src\NX_Open_Wizard_AdjustEntity_test.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NX_Open_Wizard_AdjustEntity_test.cpp" />
+    <None Include="..\README.md" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
