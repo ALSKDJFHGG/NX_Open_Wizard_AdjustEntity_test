@@ -1,0 +1,1 @@
+# NX_Open_Wizard_AdjustEntity_test
